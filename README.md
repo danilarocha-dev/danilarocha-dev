@@ -24,7 +24,7 @@ Ferramentas e Tecnologias
 
 IDEs
 
-![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
