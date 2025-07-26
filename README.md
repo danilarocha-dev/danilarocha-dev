@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Danila Rocha!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º período. Iniciei minha jornada no mundo da tecnologia e programação em 2024 e estou sempre em busca de novos conhecimentos.
+Sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei minha jornada no mundo da tecnologia e programação em 2024 e estou sempre em busca de novos conhecimentos.
 
 [![Linkedin: danila](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danila-rocha-gloria/)](https://www.linkedin.com/in/danila-rocha-gloria/)
   <a href="https://www.instagram.com/danila.rocha.gloria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
