@@ -3,7 +3,6 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei minha jornada no mundo da tecnologia e programação em 2024 e estou sempre em busca de novos conhecimentos.
 
 [![Linkedin: danila](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danila-rocha-gloria/)](https://www.linkedin.com/in/danila-rocha-gloria/)
-  <a href="https://www.instagram.com/danila.rocha.gloria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:danila.rocha.gloria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
