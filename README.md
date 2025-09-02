@@ -59,6 +59,15 @@ Tecnologias e Ferramentas com as quais tenho experiência ou estou explorando:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img
+ align="left"
+ alt="vscode"
+ title="vscode"
+ width="30px"
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+ />
+ 
 
 
 <!-- ./GitHub Snake -->
