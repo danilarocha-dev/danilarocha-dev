@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Danila Rocha!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=👋Olá%2C+eu+sou+Danila+Rocha!;" alt="Typing SVG" /> 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei minha jornada no mundo da tecnologia e programação em 2024 e estou sempre em busca de novos conhecimentos.
 
