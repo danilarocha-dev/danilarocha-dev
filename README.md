@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=👋Olá%2C+eu+sou+Danila+Rocha!;" alt="Typing SVG" /> 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei minha jornada no mundo da tecnologia e programação em 2024 e estou sempre em busca de novos conhecimentos.
+Apaixonada por tecnologia e estudante de ADS desde 2024, em especial no Desenvolvimento Web. Estou sempre explorando novas ferramentas e expandindo meus conhecimentos para evoluir como desenvolvedora.
 
 [![Linkedin: danila](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danila-rocha-gloria/)](https://www.linkedin.com/in/danila-rocha-gloria/)
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
